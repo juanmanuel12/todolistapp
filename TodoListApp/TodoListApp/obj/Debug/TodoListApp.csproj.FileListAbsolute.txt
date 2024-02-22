@@ -1,0 +1,23 @@
+c:\users\daniel.valenzuela\documents\visual studio 2012\Projects\TodoListApp\TodoListApp\bin\Debug\TodoListApp.exe
+c:\users\daniel.valenzuela\documents\visual studio 2012\Projects\TodoListApp\TodoListApp\bin\Debug\TodoListApp.pdb
+c:\users\daniel.valenzuela\documents\visual studio 2012\Projects\TodoListApp\TodoListApp\obj\Debug\TodoListApp.csprojResolveAssemblyReference.cache
+c:\users\daniel.valenzuela\documents\visual studio 2012\Projects\TodoListApp\TodoListApp\obj\Debug\TodoListApp.Properties.Resources.resources
+c:\users\daniel.valenzuela\documents\visual studio 2012\Projects\TodoListApp\TodoListApp\obj\Debug\TodoListApp.csproj.GenerateResource.Cache
+c:\users\daniel.valenzuela\documents\visual studio 2012\Projects\TodoListApp\TodoListApp\obj\Debug\TodoListApp.exe
+c:\users\daniel.valenzuela\documents\visual studio 2012\Projects\TodoListApp\TodoListApp\obj\Debug\TodoListApp.pdb
+c:\users\daniel.valenzuela\documents\visual studio 2012\Projects\TodoListApp\TodoListApp\obj\Debug\TodoListApp.ListarTodoList.resources
+c:\users\daniel.valenzuela\documents\visual studio 2012\Projects\TodoListApp\TodoListApp\obj\Debug\TodoListApp.EliminarTodoList.resources
+c:\users\daniel.valenzuela\documents\visual studio 2012\Projects\TodoListApp\TodoListApp\obj\Debug\TodoListApp.AgregarTarea.resources
+c:\users\daniel.valenzuela\documents\visual studio 2012\Projects\TodoListApp\TodoListApp\obj\Debug\TodoListApp.ModificarTarea.resources
+c:\users\daniel.valenzuela\documents\visual studio 2012\Projects\TodoListApp\TodoListApp\bin\Debug\BODEGAROPAFUNCIONESGENERALES.DLL
+C:\Users\juan.padilla\Desktop\TodoListaApp\TodoListApp\TodoListApp\obj\Debug\TodoListApp.exe
+C:\Users\juan.padilla\Desktop\TodoListaApp\TodoListApp\TodoListApp\obj\Debug\TodoListApp.pdb
+C:\Users\juan.padilla\Desktop\TodoListaApp\TodoListApp\TodoListApp\bin\Debug\TodoListApp.exe
+C:\Users\juan.padilla\Desktop\TodoListaApp\TodoListApp\TodoListApp\bin\Debug\TodoListApp.pdb
+C:\Users\juan.padilla\Desktop\TodoListaApp\TodoListApp\TodoListApp\obj\Debug\TodoListApp.csprojResolveAssemblyReference.cache
+C:\Users\juan.padilla\Desktop\TodoListaApp\TodoListApp\TodoListApp\obj\Debug\TodoListApp.EliminarTodoList.resources
+C:\Users\juan.padilla\Desktop\TodoListaApp\TodoListApp\TodoListApp\obj\Debug\TodoListApp.AgregarTarea.resources
+C:\Users\juan.padilla\Desktop\TodoListaApp\TodoListApp\TodoListApp\obj\Debug\TodoListApp.ListarTodoList.resources
+C:\Users\juan.padilla\Desktop\TodoListaApp\TodoListApp\TodoListApp\obj\Debug\TodoListApp.ModificarTarea.resources
+C:\Users\juan.padilla\Desktop\TodoListaApp\TodoListApp\TodoListApp\obj\Debug\TodoListApp.Properties.Resources.resources
+C:\Users\juan.padilla\Desktop\TodoListaApp\TodoListApp\TodoListApp\obj\Debug\TodoListApp.csproj.GenerateResource.Cache
