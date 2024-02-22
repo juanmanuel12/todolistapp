@@ -60,7 +60,7 @@ namespace TodoListApp
 
             if (_todolistRepository.actualizarid(todoList))
             {
-                MessageBox.Show("Registro se Elimino  con éxito");
+                MessageBox.Show("Registro se Guardo  con éxito");
             }
             else
             {
